@@ -1,6 +1,6 @@
 ### Feature extraction based on word embedding models for intrusion detection in network traffic
 ###### Roberto Corizzo, Eftim Zdravevski, Myles Russell, Andrew Vagliano, Nathalie Japkowicz
-###### Information Sciences  
+###### 
 ------
 ### Article links:  
 ### [xxx](https://www.xxx.com/)  
