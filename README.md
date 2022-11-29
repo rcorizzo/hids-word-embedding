@@ -3,7 +3,7 @@
 ###### 
 ------
 ### Article links:  
-### [xxx](https://www.xxx.com/)  
+### [Journal of Surveillance, Security and Safety](https://www.jsssjournal.com/article/view/3836)  
 
 ------  
 This repository includes the implementations to extract Word2Vec, Word2Vec + TF-IDF, and Doc2Vec representations for intrusion detection in network traffic.
