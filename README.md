@@ -4,8 +4,11 @@
 ------
 ### Article links:  
 ### [Journal of Surveillance, Security and Safety](https://www.jsssjournal.com/article/view/3836)  
-
 ------  
+### Datasets:  
+### [External website](https://rcorizzo.com/datasets/hids/datasets.zip)  
+------  
+
 This repository includes the implementations to extract Word2Vec, Word2Vec + TF-IDF, and Doc2Vec representations for intrusion detection in network traffic.
 
 The features extracted can be exploited by conventional machine learning algorithms for classification.
