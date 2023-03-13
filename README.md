@@ -16,13 +16,13 @@ The features extracted can be exploited by conventional machine learning algorit
 
 ------  
 ### Cite:
-@article{corizzo2020feature,
-  title={Feature extraction based on word embedding models for intrusion detection in network traffic},
-  author={Corizzo, Roberto and Zdravevski, Eftim and Russell, Myles and Vagliano, Andrew and Japkowicz, Nathalie},
-  journal={Journal of Surveillance, Security and Safety},
-  volume={1},
-  number={2},
-  pages={140--150},
-  year={2020},
-  publisher={OAE Publishing Inc.}
-}
+@article{corizzo2020feature,<br/>
+  title={Feature extraction based on word embedding models for intrusion detection in network traffic},<br/>
+  author={Corizzo, Roberto and Zdravevski, Eftim and Russell, Myles and Vagliano, Andrew and Japkowicz, Nathalie},<br/>
+  journal={Journal of Surveillance, Security and Safety},<br/>
+  volume={1},<br/>
+  number={2},<br/>
+  pages={140--150},<br/>
+  year={2020},<br/>
+  publisher={OAE Publishing Inc.}<br/>
+}<br/>
