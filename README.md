@@ -1,21 +1,28 @@
-### Stock Market Prediction with Time Series Data and News Headlines: A Stacking Ensemble Approach  
-###### Roberto Corizzo, Jacob Rosen
+### Feature extraction based on word embedding models for intrusion detection in network traffic
+###### Roberto Corizzo, Eftim Zdravevski, Myles Russell, Andrew Vagliano, Nathalie Japkowicz
 ###### 
 ------
 ### Article links:  
-### [TBD](https://)  
+### [Journal of Surveillance, Security and Safety](https://www.jsssjournal.com/article/view/3836)  
 
-Datasets used in our paper including stock prices, statistical indicators, and news headlines for AAPL, MSFT, and TSLA in the period 2010-2022.
+------  
+### Datasets:  
+### [External website](https://rcorizzo.com/datasets/hids/datasets.zip)  
+------  
+
+This repository includes the implementations to extract Word2Vec, Word2Vec + TF-IDF, and Doc2Vec representations for intrusion detection in network traffic.
+
+The features extracted can be exploited by conventional machine learning algorithms for classification.
 
 ------  
 ### Cite:
-@article{TBD,<br/>
-  title={TBD},<br/>
-  author={TBD},<br/>
-  journal={TBD},<br/>
-  volume={TBD},<br/>
-  number={TBD},<br/>
-  pages={TBD},<br/>
-  year={TBD},<br/>
-  publisher={TBD}<br/>
+@article{corizzo2020feature,<br/>
+  title={Feature extraction based on word embedding models for intrusion detection in network traffic},<br/>
+  author={Corizzo, Roberto and Zdravevski, Eftim and Russell, Myles and Vagliano, Andrew and Japkowicz, Nathalie},<br/>
+  journal={Journal of Surveillance, Security and Safety},<br/>
+  volume={1},<br/>
+  number={2},<br/>
+  pages={140--150},<br/>
+  year={2020},<br/>
+  publisher={OAE Publishing Inc.}<br/>
 }<br/>
